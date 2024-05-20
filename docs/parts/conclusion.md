@@ -4,14 +4,14 @@
 Thank you for participating in the workshop! Let's recap some of the key takeaways that we've learned:
 
 * How to customize a Kubernetes deployment using a Terraform module.
-* Deploy a Kubernetes cluster with Terraform.
+* Deploy a Kubernetes cluster and a Kubernetes add-on with Terraform.
 * How to configure a CLI tool to manage a Kubernetes cluster.
-* How to deploy an application on a Kubernetes cluster.
+* How to verify a new controller manager has been deployed in Kubernetes.
 
 ## Next Steps
 
-* Deploy other applications on the Kubernetes cluster deployed in this workshop.
-* Learn how to use [`helm`](https://helm.sh/) to manage Kubernetes applications.
+* Deploy other add-ons on the Kubernetes cluster deployed in this workshop.
+* Learn how to operate [`kubectl`](https://kubernetes.io/docs/reference/kubectl/) to troubleshoot deployment errors.
 
 ## Resources
 

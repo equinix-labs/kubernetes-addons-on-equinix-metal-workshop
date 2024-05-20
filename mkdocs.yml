@@ -1,7 +1,7 @@
-site_name: "Workshop: Kubernetes on Equinix Metal"
+site_name: "Workshop: Kubernetes Addons Deployment on Equinix Metal"
 
-repo_url: https://github.com/equinix-labs/kubernetes-equinix-metal-workshop
-repo_name: equinix-labs/kubernetes-on-equinix-metal-workshop
+repo_url: https://github.com/equinix-labs/kubernetes-addons-on-equinix-metal-workshop
+repo_name: equinix-labs/kubernetes-addons-on-equinix-metal-workshop
 edit_uri: blob/main/docs
 
 extra_css:
@@ -12,8 +12,8 @@ nav:
 
   - Parts:
       - 1. Account and API Key Setup: parts/part1.md
-      - 2. Kubernetes Deployment and Configuration: parts/part2.md
-      - 3. Deploying a Demo App: parts/part3.md
+      - 2. Kubernetes Addons Deployment and Configuration: parts/part2.md
+      - 3. Addon Deployment Verification: parts/part3.md
 
   - Conclusion: parts/conclusion.md
 
