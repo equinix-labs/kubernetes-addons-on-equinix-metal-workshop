@@ -21,7 +21,7 @@ This workshop is split into four parts:
 
 | Part | Title | Duration |
 | - | - | - |
-| 1 | Setup | 10 minutes |
-| 2 | Configuration and Provisioning | 10 minutes |
-| 3 | Addon Deployment Verification | 8 minutes |
-| 4 | Conclusion | 2 minutes |
+| 1 | [Setup](./parts/part1.md) | 10 minutes |
+| 2 | [Configuration and Provisioning](./parts/part2.md) | 10 minutes |
+| 3 | [Addon Deployment Verificatio](./parts/part3.md) | 8 minutes |
+| 4 | [Conclusion](./parts/conclusion.md) | 2 minutes |
