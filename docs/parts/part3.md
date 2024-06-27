@@ -27,7 +27,7 @@ cloud-provider-equinix-metal-zkjqb   1/1     Running   0          30m
 
 ### 2. Verify the Deployment
 
-Now that we now which pod the addon is deployed in, let check the logs of that pod:
+Now that we now which pod the addon is deployed in, let's check the logs of that pod:
 
 ```shell
 $ kubectl logs --namespace kube-system cloud-provider-equinix-metal-zkjqb

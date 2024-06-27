@@ -1,5 +1,5 @@
 <!-- See https://squidfunk.github.io/mkdocs-material/reference/ -->
-# Part 2: Kubernetes Add-ons Deployment and Configuration
+# Part 2: Kubernetes Addons Deployment and Configuration
 
 The following steps require that you be familiar with HashiCorp Terraform modules. For more info, please read [Terraform's documentation](https://developer.hashicorp.com/terraform/tutorials/modules/module). The steps below will guide you to deploy a Kubernetes cluster with Kubernetes addons with Terraform modules in an automated fashion.
 
